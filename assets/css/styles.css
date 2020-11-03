@@ -1,0 +1,230 @@
+@media (max-width: 840px) {
+	
+	.logo {
+		transform: scale(0.9);
+	}
+	
+	.header-title {
+		width: 500px;
+		font-size: 35px;
+	}
+	
+	.subtitle {
+		width: 500px;
+		font-size: 25px;
+	}
+	
+	.section-title {
+		font-size: 25px;
+		margin-left: 10px;
+	}
+	
+	.ptest {
+		font-size: 80%;
+		margin-left: 10px;
+	}
+	
+	.aboutp {
+		font-size: 90%;
+	}
+	
+	.abouth1 {
+		font-size: 30px;
+	}
+	
+	.payment {
+		font-size: 20px;
+		margin-left: 10px;
+	}
+}
+
+@media (max-width: 570px) {
+	
+	.logo {
+		transform: scale(0.8);
+	}
+	
+	.header-title {
+		width: 450px;
+		font-size: 35px;
+	}
+	
+	.subtitle {
+		width: 450px;
+		font-size: 20px;
+	}
+	
+	.section-title {
+		font-size: 20px;
+	}
+	
+	.ptest {
+		font-size: 70%;
+		margin-left: 10px;
+	}
+	
+	.aboutp {
+		font-size: 85%;
+	}
+	
+	.abouth1 {
+		font-size: 25px;
+	}
+	
+	.payment {
+		font-size: 18px;
+	}
+	
+	.second-toptxt {
+		font-weight: bold;
+		font-size: 50px;
+		text-transform: uppercase;
+	}
+
+	.second-txt {
+		font-weight: 200;
+		font-size: 20px;
+	}
+	
+	.third-toptxt {
+		font-weight: bold;
+		font-size: 40px;
+		text-transform: uppercase;
+	}
+
+	.third-txt {
+		font-weight: 200;
+		font-size: 20px;
+	}
+}
+
+@media (max-width: 480px) {
+	
+	.logo {
+		transform: scale(0.75);
+	}
+	
+	.header-title {
+		width: 400px;
+		font-size: 30px;
+	}
+	
+	.subtitle {
+		width: 400px;
+		font-size: 20px;
+	}
+	
+	.section-title {
+		font-size: 20px;
+	}
+	
+	.ptest {
+		font-size: 65%;
+		margin-left: 10px;
+	}
+	
+	.aboutp {
+		font-size: 80%;
+	}
+	
+	.abouth1 {
+		font-size: 20px;
+	}
+	
+	.payment {
+		font-size: 18px;
+	}
+}
+
+@media (max-width: 420px) {
+	
+	.logo {
+		transform: scale(0.7);
+	}
+	
+	.header-title {
+		width: 300px;
+		font-size: 25px;
+	}
+	
+	.subtitle {
+		width: 300px;
+		font-size: 15px;
+	}
+	
+	.section-title {
+		font-size: 18px;
+	}
+	
+	.ptest {
+		font-size: 60%;
+		margin-left: 10px;
+	}
+	
+	.payment {
+		font-size: 18px;
+	}
+}
+
+@media (max-width: 380px) {
+	
+	.logo {
+		transform: scale(0.6);
+		width: 80%
+	}
+	
+	.header-title {
+		width: 300px;
+		font-size: 25px;
+	}
+	
+	.subtitle {
+		width: 300px;
+		font-size: 15px;
+	}
+	
+	.section-title {
+		font-size: 18px;
+	}
+	
+	.ptest {
+		font-size: 60%;
+		margin-left: 10px;
+	}
+	
+	.payment {
+		font-size: 18px;
+	}
+}
+
+@media (max-width: 340px) {
+	
+	.logo {
+		transform: scale(0.6);
+		width: 70%
+	}
+	
+	.header-title {
+		width: 300px;
+		font-size: 25px;
+	}
+	
+	.subtitle {
+		width: 300px;
+		font-size: 15px;
+	}
+	
+	.section-title {
+		font-size: 18px;
+	}
+	
+	.ptest {
+		font-size: 60%;
+		margin-left: 10px;
+	}
+	
+	.payment {
+		width: 250px;
+		font-size: 15px;
+	}
+}
